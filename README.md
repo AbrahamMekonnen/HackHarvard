@@ -1,4 +1,3 @@
-@@ -0,0 +1,90 @@
 # FootPrint Mayhem 🌍
 
 🏆 **Winner of "Best Use of Defang" at HackHarvard 2024**  
