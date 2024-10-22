@@ -47,7 +47,7 @@ FootPrint Mayhem is a gamified web platform that makes fighting climate change f
 3. **Set up environment variables**
    ```bash
    cp .env.example .env
-# Add your Firebase configuration
+   # Add your Firebase configuration
 
 4. **Start the development server**
    ```bash
