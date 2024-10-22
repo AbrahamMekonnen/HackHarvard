@@ -83,6 +83,7 @@ We welcome contributions to **FootPrint Mayhem!** Please feel free to submit iss
    ```bash
    (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+   
 🙏 Acknowledgments
 HackHarvard 2024 organizers and mentors
 Defang team for their support
