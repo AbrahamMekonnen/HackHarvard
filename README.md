@@ -78,10 +78,10 @@ We welcome contributions to **FootPrint Mayhem!** Please feel free to submit iss
    git checkout -b feature/AmazingFeature
 3. **Commit your changes**
    ```bash
-   (git commit -m 'Add some AmazingFeature')
+   git commit -m 'Add some AmazingFeature'
 4. **Push to the branch**
    ```bash
-   (git push origin feature/AmazingFeature)
+   git push origin feature/AmazingFeature
 5. **Open a Pull Request**
    
 ## 🙏 Acknowledgments  
