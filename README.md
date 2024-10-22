@@ -40,18 +40,18 @@ FootPrint Mayhem is a gamified web platform that makes fighting climate change f
 
 
 2. **Install dependencies**
-```bash
-cd footprint-mayhem
-npm install
+   ```bash
+   cd footprint-mayhem
+   npm install
 
 3. **Set up environment variables**
-```bash
-cp .env.example .env
+   ```bash
+   cp .env.example .env
 # Add your Firebase configuration
 
 4. **Start the development server**
-
-bashCopynpm run dev
+   ```bash
+   npm run dev
 ## 👥 Team  
 - Jonnathan Saavedra  
 - Mohammed Zian Hassan  
